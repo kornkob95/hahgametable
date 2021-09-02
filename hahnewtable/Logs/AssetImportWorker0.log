@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 3542 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Sherry/Downloads/HahNewTable/HaH-master (2)/HaH-master/hahnewtable
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56766
+Successfully changed project path to: C:/Users/Sherry/Downloads/HahNewTable/HaH-master (2)/HaH-master/hahnewtable
+C:/Users/Sherry/Downloads/HahNewTable/HaH-master (2)/HaH-master/hahnewtable
+Using Asset Import Pipeline V2.
